@@ -19,3 +19,19 @@ The 3 main folders in this repository are Data, Mid-Program Files, and Python Co
 
 
 [initial IPO data]: <https://www.kaggle.com/datasets/shivamb/company-ipos-2019-2021>
+
+
+| Field Name                | Data Type | Description                                      |
+|--------------------------|-----------|--------------------------------------------------|
+| IPO Date                 | object    | The date the company went public                |
+| Symbol                   | object    | The company's stock ticker symbol               |
+| Company Name             | object    | Name of the company at IPO                      |
+| Current                  | float64   | The current stock price (on December 2021)      |
+| Return                   | float64   | Percent return since IPO                        |
+| IPO Price (Float)        | float64   | Cleaned version of IPO price as a number        |
+| Todays Price             | float64   | Live current stock price from StockAnalysis     |
+| Current Return (%)       | float64   | Return calculated from Todays Price vs IPO Price|
+| Industry                 | object    | Industry category from Yahoo Finance            |
+| Market Cap in Millions   | float64   | Market capitalization of Company                |
+| Net Income (ttm) in Millions | float64 | Net income over the trailing twelve months  |
+| Revenue (ttm) in Millions   | float64 | Revenue over the trailing twelve months     |
