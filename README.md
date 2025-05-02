@@ -6,6 +6,7 @@ The 3 main folders in this repository are Data, Mid-Program Files, and Python Co
  - Mid-Program files contains all csv saves throughout the python program
  - Python Code contains the .ipynb file with the actual project code in it
 
+# File Names and Descriptions
 | File Name | Description |
 | ------ | ------ |
 | company_ipo.csv | [initial IPO data] from Kaggle.com |
@@ -20,7 +21,7 @@ The 3 main folders in this repository are Data, Mid-Program Files, and Python Co
 
 [initial IPO data]: <https://www.kaggle.com/datasets/shivamb/company-ipos-2019-2021>
 
-
+# Data Dictionary
 | Field Name                | Data Type | Description                                      |
 |--------------------------|-----------|--------------------------------------------------|
 | IPO Date                 | object    | The date the company went public                |
