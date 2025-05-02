@@ -8,7 +8,7 @@ The 3 main folders in this repository are Data, Mid-Program Files, and Python Co
 
 | File Name | Description |
 | ------ | ------ |
-| company_ipo.csv | initial IPO data from Kaggle.com |
+| company_ipo.csv | [initial IPO data] from Kaggle.com |
 | stock_overview_scraped.csv | Initial data with new scraped columns included |
 | ipo_data_2019_2021_cleaned.csv | First data save, after scraping updated prices |
 | merged_ipo_cleaned1.csv | save after cleaning first columns of data |
@@ -16,3 +16,6 @@ The 3 main folders in this repository are Data, Mid-Program Files, and Python Co
 | Final_ipo_data_cleaned.csv | Save after converting numbers into millions |
 | Project_Part_2_Data.csv | Save after finishing part 2 of the project (current last save) |
 | Project_Landin.ipynb | Python code for the project |
+
+
+[initial IPO data]: <https://www.kaggle.com/datasets/shivamb/company-ipos-2019-2021>
